@@ -1,0 +1,129 @@
+--------------TS--------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+--------------TS--------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+Iniciando funcao fun
+--------------TS--------------
+VARIAVEL; lexema=minhaVarComNomeGrande; escopo=1; tipo=int
+---------------
+VARIAVEL; lexema=y; escopo=1; tipo=float
+---------------
+VARIAVEL; lexema=x; escopo=1; tipo=int
+---------------
+FUNCAO; lexema=fun; escopo=0; tipo=int; args:{int, float}
+---------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+--------------TS--------------
+VARIAVEL; lexema=outraVar; escopo=1; tipo=float
+---------------
+VARIAVEL; lexema=minhaVarComNomeGrande; escopo=1; tipo=int
+---------------
+VARIAVEL; lexema=y; escopo=1; tipo=float
+---------------
+VARIAVEL; lexema=x; escopo=1; tipo=int
+---------------
+FUNCAO; lexema=fun; escopo=0; tipo=int; args:{int, float}
+---------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+--------------TS--------------
+VARIAVEL; lexema=outraVar; escopo=1; tipo=float
+---------------
+VARIAVEL; lexema=minhaVarComNomeGrande; escopo=1; tipo=int
+---------------
+VARIAVEL; lexema=y; escopo=1; tipo=float
+---------------
+VARIAVEL; lexema=x; escopo=1; tipo=int
+---------------
+FUNCAO; lexema=fun; escopo=0; tipo=int; args:{int, float}
+---------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+Finalizando funcao fun
+Iniciando funcao main
+--------------TS--------------
+VARIAVEL; lexema=b; escopo=1; tipo=int
+---------------
+VARIAVEL; lexema=a; escopo=1; tipo=int
+---------------
+FUNCAO; lexema=main; escopo=0; tipo=int; args:{}
+---------------
+FUNCAO; lexema=fun; escopo=0; tipo=int; args:{int, float}
+---------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+--------------TS--------------
+VARIAVEL; lexema=b; escopo=1; tipo=int
+---------------
+VARIAVEL; lexema=a; escopo=1; tipo=int
+---------------
+FUNCAO; lexema=main; escopo=0; tipo=int; args:{}
+---------------
+FUNCAO; lexema=fun; escopo=0; tipo=int; args:{int, float}
+---------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+Finalizando funcao main
+--------------TS--------------
+FUNCAO; lexema=main; escopo=0; tipo=int; args:{}
+---------------
+FUNCAO; lexema=fun; escopo=0; tipo=int; args:{int, float}
+---------------
+VARIAVEL; lexema=w; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=z; escopo=0; tipo=float
+---------------
+VARIAVEL; lexema=y; escopo=0; tipo=int
+---------------
+VARIAVEL; lexema=x; escopo=0; tipo=int
+---------------
+--------------FIM-TS----------
+Finalizando compilacao

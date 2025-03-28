@@ -1,0 +1,9 @@
+PROJECT_HEADER_DIR = sources
+PROJECT_SRC_DIR = sources
+PROJECT_OBJ_DIR = obj
+
+PROJECT_TEST_DIR = TDD
+PROJECT_TARGET ?= compiler
+
+PROJECT_CC = g++
+PROJECT_CFLAGS = -std=c++20 -g -Wall -Wextra -O2
